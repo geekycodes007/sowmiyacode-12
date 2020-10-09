@@ -15,7 +15,7 @@ My Techstack:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="40" height="40"/></p>
 
 Connect me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sowmiya-p-285523ba/) [<img src='' alt='codepen' height='30'>](https://codepen.io/sowmiyacode-12) [<img src='' alt='github' height='30'>](https://github.com/sowmiyacode-12)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sowmiya-p-285523ba/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/sowmiyacode-12) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/sowmiyacode-12)
 
 
 ⭐️ [Star-on](https://github.com/sowmiyacode-12)
