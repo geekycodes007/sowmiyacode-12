@@ -1,6 +1,6 @@
 ### Hi there, I am Sowmiya 👋
 
-<h3 align="center">🚀 Fullstack Web Developer 🚀</h3>
+<h3 align="center">🚀 FrontEnd Web Developer 🚀</h3>
 <ul>
 
 - 🌱 I’m currently learning Javascript & Reactjs
