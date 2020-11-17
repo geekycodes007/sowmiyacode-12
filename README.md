@@ -2,8 +2,8 @@
 
 <h3 align="center">🚀 FrontEnd Web Developer 🚀</h3>
 -:collision: Having fun on HTML5-CSS3<br/>
-- 🌱 I’m currently learning Javascript<br/>
-- ⚡ Fun fact: Writing Blogs<br/>
+- :sparkles: I’m currently learning Javascript<br/>
+- :zap: Fun fact: Writing Blogs<br/>
 
 ### My Techstack:
 
