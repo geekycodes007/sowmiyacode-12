@@ -1,7 +1,6 @@
 ### Hi there, I am Sowmiya 👋
 
 <h3 align="center">🚀 FrontEnd Web Developer 🚀</h3>
-<ul>
 -:collision: Having fun on HTML5-CSS3
 - 🌱 I’m currently learning Javascript
 - ⚡ Fun fact: Writing Blogs
