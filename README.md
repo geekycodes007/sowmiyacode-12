@@ -2,8 +2,9 @@
 
 <h3 align="center">🚀 FrontEnd Web Developer 🚀</h3>
 -:collision: Having fun on HTML5-CSS3<br/>
-- :sparkles: I’m currently learning Javascript<br/>
+- :sparkles: I’m currently learning Javascript and ReactJS<br/>
 - :zap: Fun fact: Writing Blogs<br/>
+- :bomb: Self Learner
 
 ### My Techstack:
 
@@ -15,7 +16,7 @@
 
 ### Connect me on:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/sowmiya-p-285523ba/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/sowmiyacode-12) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/sowmiyacode-12)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/sowmiya-p-285523ba/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/sowmiyacode-12)
 
 
 ⭐️ [Star-on](https://github.com/sowmiyacode-12)
