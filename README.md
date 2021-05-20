@@ -3,8 +3,8 @@
 <h3 align="center">🚀 FrontEnd Web Developer 🚀</h3>
 -:collision: Having fun on HTML5-CSS3<br/>
 - :sparkles: I’m currently learning Javascript and ReactJS<br/>
-- :zap: Fun fact: Writing Blogs<br/>
-- 🔥Passion to do Powerpoint templates<br/>
+- :zap: Fun fact: Blogging<br/>
+- 🔥Passion to do Wordpress<br/>
 - :bomb: Self Learner
 
 ##### My Techstack:
