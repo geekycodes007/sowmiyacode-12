@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sowmiya</h1>
 <h3 align="center">A Emerging Frontend Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently into **30 DAYS OF REACT**
 
 - 📝 Read articles on [https://medium.com/@paperpen](https://medium.com/@paperpen)
 
